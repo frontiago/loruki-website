@@ -42,6 +42,7 @@ img {
 
 h1.logo {
     margin-left:-18px;
+    font-size: 2.4rem;
 }
 
 /* Navbar */
@@ -136,3 +137,16 @@ h1.logo {
     padding-top: 100px;
 }
 
+.stats-heading {
+    max-width:500px;
+    margin: 0 auto;
+}
+
+.stats .grid h3 {
+    font-size:35px;
+}
+
+.stats .grid p {
+    font-size:30px;
+    font-weight: bold;
+}
