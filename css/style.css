@@ -200,6 +200,14 @@ h1.logo {
     justify-self: flex-end;
 }
 
+.features-main .card > i {
+    margin-right: 20px;
+}
+
+.features-main .grid {
+    
+}
+
 /* */ 
 .footer .social a {
     margin:0 10px;
