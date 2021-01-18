@@ -27,7 +27,7 @@
     transition: transform 0.2s ease-in;
 }
 
-.btn:hover {
+.btn:hover, a.fab:hover {
     transform:scale(1.2);
 }
 
