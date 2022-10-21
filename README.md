@@ -1,4 +1,9 @@
 # loruki-website
-A website using flexbox and grid
+- A website about hosting company 
+- HTML, CSS and Javascript
+- Flexbox and Grid
+- 100% Responsive
 
-[View Website Online](https://thiagowfer.github.io/loruki-website/)
+### 👁️ [View Online](https://thiagowfer.github.io/loruki-website/)
+
+![Print](images/print.png)
