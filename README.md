@@ -1,4 +1,4 @@
-# loruki-website
+# Loruki Hosting
 - A website about hosting company 
 - HTML, CSS and Javascript
 - Flexbox and Grid
